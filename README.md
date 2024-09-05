@@ -59,6 +59,36 @@ This means that important updates or changes won’t go unnoticed. Depending on 
 ### Tags: 
   + Use tags to group similar tasks or highlight specific features that need attention.
 
+## Features:
+
+
+### 1. Ticket Creation and Tracking:
+ Users can create tickets by filling in relevant details such as issue description, priority, requester information, and category.
+ Each ticket is assigned a unique identifier, allowing for easy tracking and reference throughout its life cycle.
+
+
+### 2. Customizable Ticket Categories and Fields:
+ Admins can define custom ticket categories and fields to align with their specific needs, ensuring accurate categorization and relevant information capture.
+
+
+### 3. Ticket Assignments:
+ Tickets can be assigned to appropriate team members or departments based on their expertise or workload.
+ Multiple assignment options, such as round robin or All or Filter once,Filter All ensure fair ticket distribution.
+
+
+### 4. Collaboration and Communication:
+ Users can communicate within the ticket, attaching files or adding comments to facilitate collaboration.
+ Notification emails are sent to involved parties whenever there are updates or actions required.
+
+
+### 5. Ticket Escalation:
+ In case of priority changes or unresolved issues, tickets can be escalated to higher levels of management or assigned to specialized teams for immediate attention.
+
+
+### 6. Reporting and Analytics:
+ Generate comprehensive reports on ticket status, resolution times, team performance, and other relevant metrics to monitor and improve support processes.
+ Visualize data through dashboards and graphs to gain actionable insights.
+
 
 This structured approach not only makes it easy for everyone to follow the status of their work but also creates a visual map of what requires immediate focus.
 “With BangDB, you have everything in one place, which not only boosts productivity but also enhances team morale through clear communication and structured workflows.”
