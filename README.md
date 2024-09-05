@@ -37,7 +37,27 @@ On the pipe level, you have specific roles that further delineate responsibiliti
 while pipe admins manage the operations within the pipes. This tiered approach fosters accountability and clear communication among team members.
 
 
+## Custom Fields and Notifications
+ ### Adding Custom Fields : 
+Customization is key in any ticket management system, and BangDB allows you to add custom fields at the group level. 
+This means you can define specific requirements for your teams, making sure everyone is aligned with the project needs.
+Imagine having fields like “Priority Levels” or “Estimated Completion Dates” tailored to your unique projects — this feature is a game-changer for clarity.
 
+## Notifications and Alerts
+Keeping everyone in the loop is vital for any team, and BangDB excels in this area. Users receive notifications both from the work manager and via email. 
+This means that important updates or changes won’t go unnoticed. Depending on your preferences, you can catch up on alerts through :
++ And we have get the desktop notification also if any new tickets assigned to you.
++ Email updates that provide a summary of tasks and statuses.
+
+## Status, Severity, and Tags Setup
+### Internal Status Management
+  + Among the many features of BangDB is the ability to set up internal status, severity levels, and tags. These elements help users prioritize their tasks more effectively. For example:
+### Status Levels: 
+  + Define whether a task is “Open,” “In Progress,” or “Completed.”
+### Severity Levels:
+  + Categorize issues based on urgency, ensuring that critical tasks are addressed promptly.
+### Tags: 
+  + Use tags to group similar tasks or highlight specific features that need attention.
 
 
 
