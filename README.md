@@ -1,7 +1,7 @@
 #  Title: Ticket Management System built on top of BangDB Workflow Manager
 
 ## Understanding Bangdb's Work Manager
-BangDB provides a work manager This innovative feature allows you to categorize your work efficiently, 
+At the heart BangDB provides a work manager that streams task management through organized groups and pipes. This innovative feature allows you to categorize your work efficiently, 
   ensuring that tasks are moved smoothly from one stage to the next. The structure of groups and pipes not only adds clarity but also enhances collaboration among team members.
 
 ## Groups and Pipes
