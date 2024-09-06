@@ -1,10 +1,8 @@
 #  Title: Ticket Management System built on top of BangDB Workflow Manager
 
-## Understanding Bang's Work Manager
+## Understanding Bangdb's Work Manager
   At the heart BangDB is a Work Manager that streams task management through organized groups and pipes. This innovative feature allows you to categorize your work efficiently, 
   ensuring that tasks are moved smoothly from one stage to the next. The structure of groups and pipes not only adds clarity but also enhances collaboration among team members.
-
-## Structure Functionality of Groups and Pipes
 
 ## Groups and Pipes
   In BangDB, you can create various groups and pipes tailored to your specific workflow. A group serves as a container for related tasks, while pipes act as conduits through which tasks flow. 
@@ -14,11 +12,11 @@
   One of the standout features of BangDB's Work Manager is the ability to implement filters at multiple levels: group, pipe, and user. 
   These filters allow you to customize your view, enabling users to focus on the tasks that matter the most to them
   
-### Group Level Filters:
+#### Group Level Filters:
   + You can filter tasks based on group-related criteria, making it easier to see all relevant tasks.
-### Pipe Level Filters: 
+#### Pipe Level Filters: 
  +  This lets users focus on specific tasks within a pipe.
-### User Level Filters:
+#### User Level Filters:
  + Tailored views for individual users help maintain focus on the assigned tickets and it increases the productivity.
 
 ## Roles in BangDB's Workflow Management
@@ -43,7 +41,7 @@ Customization is key in any ticket management system, and BangDB allows you to a
 This means you can define specific requirements for your teams, making sure everyone is aligned with the project needs.
 Imagine having fields like “Priority Levels” or “Estimated Completion Dates” tailored to your unique projects — this feature is a game-changer for clarity.
 
-## Notifications and Alerts
+### Notifications and Alerts
 Keeping everyone in the loop is vital for any team, and BangDB excels in this area. Users receive notifications both from the work manager and via email. 
 This means that important updates or changes won’t go unnoticed. Depending on your preferences, you can catch up on alerts through :
 + And we have get the desktop notification also if any new tickets assigned to you.
